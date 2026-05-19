@@ -160,15 +160,6 @@ The project includes a professional cinematic console interface with:
 
 ---
 
-# Team Members
-
-* Aliya
-* Sheikha
-* Hind
-* Anoud
-
----
-
 # Conclusion
 
 This project demonstrates the practical implementation of:
