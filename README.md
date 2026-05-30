@@ -78,13 +78,15 @@ Movie-Recommendation-System
 
 
 ---
+## 🚀 Future Improvements 
 
-🚀 Future Improvements
 🤖 AI-based recommendation engine
 🌐 ASP.NET Core Web API version
 🗄️ Database integration (SQL Server / PostgreSQL)
 🎨 Frontend UI (Blazor / React)
 🔐 Authentication system
+
+---
 
 
 
