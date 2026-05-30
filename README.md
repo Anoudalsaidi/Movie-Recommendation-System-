@@ -79,17 +79,6 @@ Movie-Recommendation-System
 
 ---
 
-## ▶️ How to Run
-
-## Clone repository
-```bash
-git clone https://github.com/Anoudalsaidi/Movie-Recommendation-System-
-Run project
-cd Movie-Recommendation-System-
-dotnet run
-
----
-
 🚀 Future Improvements
 🤖 AI-based recommendation engine
 🌐 ASP.NET Core Web API version
