@@ -1,13 +1,6 @@
 # 🎬 Movie Recommendation System
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-6.0-blue" />
-  <img src="https://img.shields.io/badge/C%23-Advanced-green" />
-  <img src="https://img.shields.io/badge/Type-Recommendation_System-orange" />
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
-</p>
-
-<p align="center">
   <b>Smart Movie Recommendation System built with C# and .NET</b><br>
   A structured system that simulates real-world recommendation engines using clean OOP design.
 </p>
@@ -19,10 +12,11 @@
 The **Movie Recommendation System** is a console-based application built using **C# and .NET**, designed to recommend movies based on user preferences and movie similarity logic.
 
 This project demonstrates real-world backend concepts such as:
-- Data filtering
-- Recommendation algorithms
-- Clean architecture principles
-- Object-oriented design
+
+- Data filtering  
+- Recommendation algorithms  
+- Clean architecture principles  
+- Object-oriented design  
 
 ---
 
@@ -51,15 +45,17 @@ The recommendation engine works as follows:
 
 ## 🏗️ Tech Stack
 
-- C#
-- .NET 6 / .NET Core
-- LINQ
-- Object-Oriented Programming (OOP)
-- Console Application
+- C#  
+- .NET 6 / .NET Core  
+- LINQ  
+- Object-Oriented Programming (OOP)  
+- Console Application  
 
 ---
 
 ## 📁 Project Structure
+
+
 Movie-Recommendation-System
 │
 ├── Models
@@ -74,34 +70,35 @@ Movie-Recommendation-System
 ├── Program.cs
 └── README.md
 
----
 
 ---
 
 ## ▶️ How to Run
 
-### 1. Clone repository
+### Clone repository
 ```bash
 git clone https://github.com/Anoudalsaidi/Movie-Recommendation-System-
-
+Run project
+cd Movie-Recommendation-System-
+dotnet run
 ---
 
-🚀 Future Improvements
+🚀 Future Improvements:
+
 🤖 AI-based recommendation engine
 🌐 ASP.NET Core Web API version
 🗄️ Database integration (SQL Server / PostgreSQL)
 🎨 Frontend UI (Blazor / React)
 🔐 Authentication system
+----
 
----
 👨‍💻 Author
-
 Anoud Alsaidi
 .NET Developer | Backend Engineer | Cybersecurity Enthusiast
 
 🌐 GitHub: https://github.com/Anoudalsaidi
+----
 
----
 ⭐ Support
 
 If you like this project, please consider giving it a ⭐ on GitHub.
