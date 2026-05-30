@@ -1,10 +1,16 @@
 # 🎬 Movie Recommendation System
 
 <p align="center">
+  <img src="https://img.shields.io/badge/.NET-6.0-blue" />
+  <img src="https://img.shields.io/badge/C%23-Advanced-green" />
+  <img src="https://img.shields.io/badge/Type-Recommendation_System-orange" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
+</p>
+
+<p align="center">
   <b>Smart Movie Recommendation System built with C# and .NET</b><br>
   A structured system that simulates real-world recommendation engines using clean OOP design.
 </p>
-
 ---
 
 ## 📌 Project Overview
@@ -83,7 +89,7 @@ cd Movie-Recommendation-System-
 dotnet run
 ---
 
-🚀 Future Improvements:
+##🚀 Future Improvements:
 
 🤖 AI-based recommendation engine
 🌐 ASP.NET Core Web API version
@@ -92,13 +98,13 @@ dotnet run
 🔐 Authentication system
 ----
 
-👨‍💻 Author
+###👨‍💻 Author
 Anoud Alsaidi
 .NET Developer | Backend Engineer | Cybersecurity Enthusiast
 
 🌐 GitHub: https://github.com/Anoudalsaidi
 ----
 
-⭐ Support
+###⭐ Support
 
 If you like this project, please consider giving it a ⭐ on GitHub.
