@@ -11,7 +11,7 @@
   <b>Smart Movie Recommendation System built with C# and .NET</b><br>
   A structured system that simulates real-world recommendation engines using clean OOP design.
 </p>
----
+
 
 ## 📌 Project Overview
 
@@ -81,7 +81,7 @@ Movie-Recommendation-System
 
 ## ▶️ How to Run
 
-### Clone repository
+## Clone repository
 ```bash
 git clone https://github.com/Anoudalsaidi/Movie-Recommendation-System-
 Run project
@@ -89,20 +89,7 @@ cd Movie-Recommendation-System-
 dotnet run
 ---
 
-##🚀 Future Improvements:
 
-🤖 AI-based recommendation engine
-🌐 ASP.NET Core Web API version
-🗄️ Database integration (SQL Server / PostgreSQL)
-🎨 Frontend UI (Blazor / React)
-🔐 Authentication system
-----
-
-###👨‍💻 Author
-Anoud Alsaidi
-.NET Developer | Backend Engineer | Cybersecurity Enthusiast
-
-🌐 GitHub: https://github.com/Anoudalsaidi
 ----
 
 ###⭐ Support
