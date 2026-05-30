@@ -87,11 +87,15 @@ git clone https://github.com/Anoudalsaidi/Movie-Recommendation-System-
 Run project
 cd Movie-Recommendation-System-
 dotnet run
+
 ---
 
+🚀 Future Improvements
+🤖 AI-based recommendation engine
+🌐 ASP.NET Core Web API version
+🗄️ Database integration (SQL Server / PostgreSQL)
+🎨 Frontend UI (Blazor / React)
+🔐 Authentication system
 
-----
 
-###⭐ Support
 
-If you like this project, please consider giving it a ⭐ on GitHub.
