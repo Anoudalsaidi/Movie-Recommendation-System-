@@ -1,173 +1,107 @@
-# AI-Powered Movie Recommendation System
+# 🎬 Movie Recommendation System
 
-## Project Overview
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-6.0-blue" />
+  <img src="https://img.shields.io/badge/C%23-Advanced-green" />
+  <img src="https://img.shields.io/badge/Type-Recommendation_System-orange" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
+</p>
 
-This project is a console-based AI Movie Recommendation System developed using C# and .NET. The system allows users to register, login, browse movies, search for movies, rate movies, remove ratings, view watch history, and receive personalized movie recommendations.
-
-The recommendation engine uses AI-inspired techniques such as Content-Based Filtering, Collaborative Filtering, Cosine Similarity, and Weighted Recommendation Scoring.
-
----
-
-# Features
-
-* User Registration and Login
-* Browse Movies
-* Search Movies
-* Rate Movies
-* Update and Remove Ratings
-* Watch History
-* Favorite Movies
-* Top Rated Movies
-* Trending Movies
-* Movie Details
-* System Statistics
-* AI Movie Recommendations
-* JSON Data Storage
-* Professional Console UI
+<p align="center">
+  <b>Smart Movie Recommendation System built with C# and .NET</b><br>
+  A structured system that simulates real-world recommendation engines using clean OOP design.
+</p>
 
 ---
 
-# Technologies Used
+## 📌 Project Overview
 
-* C#
-* .NET
-* LINQ
-* JSON Serialization
-* Newtonsoft.Json
-* Visual Studio
-* Git & GitHub
+The **Movie Recommendation System** is a console-based application built using **C# and .NET**, designed to recommend movies based on user preferences and movie similarity logic.
 
----
-
-# Recommendation Logic
-
-## 1. Content-Based Filtering
-
-The system recommends movies based on:
-
-* Favorite genres
-* Movie tags
-* User preferences
-* Previously watched movies
-
-## 2. Collaborative Filtering
-
-The system compares users with similar rating behavior and recommends movies liked by similar users.
-
-## 3. Cosine Similarity
-
-Cosine Similarity is used to calculate similarity between users based on movie ratings.
-
-## 4. Weighted Recommendation Score
-
-The recommendation score is calculated using:
-
-* Genre match
-* Similar users
-* Movie popularity
-* Average ratings
-* User interests
+This project demonstrates real-world backend concepts such as:
+- Data filtering
+- Recommendation algorithms
+- Clean architecture principles
+- Object-oriented design
 
 ---
 
-# Object-Oriented Programming Concepts
+## 🎯 Key Features
 
-## Encapsulation
-
-Data is organized inside classes using properties and methods.
-
-## Inheritance
-
-The `User` class inherits from the `Person` class.
-
-## Abstraction
-
-Interfaces are used to hide implementation details.
-
-## Polymorphism
-
-Multiple recommendation strategies implement the same recommendation interface.
+- 🎥 Manage a movie catalog  
+- ⭐ Generate smart recommendations  
+- 🔍 Search movies by title  
+- 📊 Filter by genre and rating  
+- 🧠 Content-based recommendation logic  
+- ⚡ Lightweight and fast console application  
 
 ---
 
-# Project Structure
+## 🧠 System Workflow
 
-```text
-MovieRecommendationSystem/
+The recommendation engine works as follows:
+
+1. User selects or rates movies  
+2. System extracts movie attributes (genre, rating, etc.)  
+3. Similarity comparison is performed  
+4. Movies are ranked based on relevance  
+5. Top recommendations are displayed to the user  
+
+---
+
+## 🏗️ Tech Stack
+
+- C#
+- .NET 6 / .NET Core
+- LINQ
+- Object-Oriented Programming (OOP)
+- Console Application
+
+---
+
+## 📁 Project Structure
+Movie-Recommendation-System
 │
-├── Models/
-├── Services/
-├── Interfaces/
-├── Utilities/
-├── Data/
-└── Program.cs
-```
+├── Models
+│ └── Movie.cs
+│
+├── Services
+│ └── RecommendationService.cs
+│
+├── Data
+│ └── MoviesData.cs
+│
+├── Program.cs
+└── README.md
 
 ---
 
-# Data Storage
+---
 
-The system stores data using JSON files:
+## ▶️ How to Run
 
-* movies.json
-* users.json
-* ratings.json
-
-This allows data persistence after restarting the application.
+### 1. Clone repository
+```bash
+git clone https://github.com/Anoudalsaidi/Movie-Recommendation-System-
 
 ---
 
-# LINQ Usage
-
-LINQ is used for:
-
-* Searching
-* Filtering
-* Sorting
-* Grouping
-* Statistics calculations
-
-Examples:
-
-* Where()
-* GroupBy()
-* OrderByDescending()
-* Average()
-* FirstOrDefault()
+🚀 Future Improvements
+🤖 AI-based recommendation engine
+🌐 ASP.NET Core Web API version
+🗄️ Database integration (SQL Server / PostgreSQL)
+🎨 Frontend UI (Blazor / React)
+🔐 Authentication system
 
 ---
+👨‍💻 Author
 
-# User Interface
+Anoud Alsaidi
+.NET Developer | Backend Engineer | Cybersecurity Enthusiast
 
-The project includes a professional cinematic console interface with:
-
-* Movie cards
-* Loading animations
-* Dashboard layout
-* Styled tables
-* Professional color themes
+🌐 GitHub: https://github.com/Anoudalsaidi
 
 ---
+⭐ Support
 
-# How to Run the Project
-
-1. Open the project in Visual Studio.
-2. Restore NuGet packages if needed.
-3. Build the solution.
-4. Run the application.
-5. Register or login.
-6. Explore the movie dashboard.
-
----
-
-# Conclusion
-
-This project demonstrates the practical implementation of:
-
-* Artificial Intelligence concepts
-* Object-Oriented Programming
-* LINQ
-* JSON file handling
-* Team collaboration using GitHub
-
-The final system provides an intelligent and interactive movie recommendation experience using C#.
+If you like this project, please consider giving it a ⭐ on GitHub.
